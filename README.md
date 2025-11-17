@@ -109,3 +109,5 @@ Try Jules
 Documentation
 Terms of Service
 Privacy Policy
+
+![Jules Autonomous Coding Agent](download.png)
